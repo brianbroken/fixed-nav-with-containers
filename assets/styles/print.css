@@ -1,0 +1,75 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+    background-image: url(../images/tiny_grid.png);
+    color: #333333;
+}
+
+
+/* Typography
+-------------------------------------------------- */
+
+h1,
+h2,
+h3 {
+    font-family: 'Source Serif Pro', serif;
+}
+
+h2 {
+    font-size: 38px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+a {
+    color: #337ab7;
+    text-decoration: none;
+}
+
+p.tagline {
+    font-family: 'Source Serif Pro', serif;
+    font-size: 22px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+
+strong {
+    font-weight: bold;
+}
+
+.panel-resource {}
+
+#navigation,
+.print-wrap,
+.btn-curriculumLinks,
+.close,
+.modal-footer {
+    display: none;
+}
+
+.panel-heading {
+    border-bottom: 1px solid #ddd;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    padding: 10px 0px;
+    font-weight: bold;
+}
+
+caption {
+    text-align: left;
+    font-weight: bold;
+}
+
+th,
+td {
+    padding: 4px 4px 4px 4px;
+    text-align: left;
+    border-bottom: 1px solid #999999;
+}
+
+
+th.col-md-2 {
+
+width: 100px;
+
+}
